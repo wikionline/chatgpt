@@ -1,22 +1,8 @@
 {
   "app": "WikiGPT",
-  "version": "1.2.6",
-  "generatedAt": "2026-09-23 22:12:12",
+  "version": "1.2.7",
+  "generatedAt": "2026-09-23 22:31:09",
   "users": [
-    {
-      "id": 2,
-      "username": "hadi",
-      "password": "hadi",
-      "createdDate": "2026-09-23",
-      "durationMonths": 1,
-      "expireDate": "2026-10-23",
-      "active": true,
-      "plan": "Pro",
-      "sessionVersion": 1,
-      "sessionUrl": "",
-      "sessionFileName": "",
-      "sessionUpdatedAt": ""
-    },
     {
       "id": 1,
       "username": "wiki",
@@ -26,9 +12,10 @@
       "expireDate": "2026-10-23",
       "active": true,
       "plan": "Pro",
+      "session": "Sessions_sep2025.zip",
       "sessionVersion": 1,
       "sessionUrl": "",
-      "sessionFileName": "",
+      "sessionFileName": "Sessions_sep2025.zip",
       "sessionUpdatedAt": ""
     }
   ]
