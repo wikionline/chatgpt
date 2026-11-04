@@ -5,7 +5,7 @@
     {
       "id": 1,
       "username": "wiki",
-      "password": "wiki",
+      "password": "12345",
       "session": "session-webview2.zip",
       "expireDate": "2648-10-22",
       "active": true,
@@ -20,7 +20,7 @@
     {
       "id": 2,
       "username": "hadi",
-      "password": "hadi",
+      "password": "12345",
       "session": "session-webview2.zip",
       "expireDate": "2027-12-04",
       "active": true,
