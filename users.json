@@ -1,12 +1,15 @@
 {
   "app": "WikiGPT",
-  "version": "1.2.7",
+  "version": "3.1",
   "users": [
     {
       "id": 1,
       "username": "wiki",
       "password": "12345",
-      "session": "session-webview2.zip",
+      "session": "session-webview3.zip",
+      "sessions": [
+        "session-webview3.zip"
+      ],
       "expireDate": "2648-10-22",
       "active": true,
       "plan": "Pro",
@@ -22,6 +25,9 @@
       "username": "hadi",
       "password": "12345",
       "session": "session-webview2.zip",
+      "sessions": [
+        "session-webview2.zip"
+      ],
       "expireDate": "2027-12-04",
       "active": true,
       "plan": "Pro"
