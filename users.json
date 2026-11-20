@@ -1,3 +1,4 @@
+
 {
   "app": "WikiGPT",
   "version": "3.3",
@@ -11,11 +12,7 @@
       "plan": "Pro",
       "chatgptEmail": "gpt1@wikirobo.com",
       "createdDate": "2026-09-23",
-      "durationMonths": 1,
-      "sessionVersion": 1,
-      "sessionUrl": "",
-      "sessionFileName": "Sessions_sep2025.zip",
-      "sessionUpdatedAt": ""
+      "durationMonths": 1
     }
   ],
   "generatedAt": "2026-09-23 22:31:09"
