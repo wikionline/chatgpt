@@ -1,4 +1,15 @@
 {
   "version": 1,
-  "codes": []
+  "codes": [
+    {
+      "requestId": "898a30623f2d66dc67cfcaabcb8225a8",
+      "username": "wiki",
+      "email": "gpt1@wikirobo.com",
+      "createdAt": 1795171039,
+      "expiresAt": 1795171219,
+      "nonce": "AbbxmK8txsUvShWv",
+      "ciphertext": "ve2yQjWV",
+      "tag": "8RKK2cxxr2hAt0gawGQpPg=="
+    }
+  ]
 }
