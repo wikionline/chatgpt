@@ -14,6 +14,17 @@
       "chatgptProjectUrl": "https://chatgpt.com/g/g-p-6b007b0e70748191a2bde277ce5b36ba/project",
       "createdDate": "2026-09-23",
       "durationMonths": 1
+    },
+    {
+      "id": 2,
+      "username": "sayid",
+      "password": "12345",
+      "expireDate": "2027-12-21",
+      "active": true,
+      "plan": "Pro",
+      "chatgptEmail": "gpt1@wikirobo.com",
+      "chatgptProjectName": "sayid",
+      "chatgptProjectUrl": "https://chatgpt.com/g/g-p-6b019a988bf881918708f2cd597ae139-sayid/project"
     }
   ],
   "generatedAt": "2026-09-23 22:31:09"
