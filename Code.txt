@@ -2,16 +2,6 @@
   "version": 1,
   "codes": [
     {
-      "requestId": "731526b8f4d6b4d353ac609d1c84da8a",
-      "username": "test",
-      "email": "gpt1@wikirobo.com",
-      "createdAt": 1795710282,
-      "expiresAt": 1795711182,
-      "nonce": "BZaFTI8t7G2C\u002BuLt",
-      "ciphertext": "i6TOk6xJ",
-      "tag": "WZfb95sHQZ\u002BCzWwUjCUlXw=="
-    },
-    {
       "requestId": "0de3c074989819d47af018978bd7b3d6",
       "username": "test",
       "email": "gpt1@wikirobo.com",
@@ -22,11 +12,5 @@
       "tag": "nAtzbP7D99x2YE4AhVsJ1g=="
     }
   ],
-  "ready": [
-    {
-      "requestId": "731526b8f4d6b4d353ac609d1c84da8a",
-      "username": "test",
-      "email": "gpt1@wikirobo.com"
-    }
-  ]
+  "ready": []
 }
