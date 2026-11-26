@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "codes": [],
+  "ready": [
+    {
+      "requestId": "0bc6e48685730bf73b5dcf15661c58e1",
+      "username": "test",
+      "email": "gpt1@wikirobo.com"
+    }
+  ]
+}
