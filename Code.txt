@@ -1,6 +1,17 @@
 {
   "version": 1,
-  "codes": [],
+  "codes": [
+    {
+      "requestId": "0bc6e48685730bf73b5dcf15661c58e1",
+      "username": "test",
+      "email": "gpt1@wikirobo.com",
+      "createdAt": 1795709714,
+      "expiresAt": 1795710614,
+      "nonce": "AhXgz/YG2ih\u002BSh7q",
+      "ciphertext": "uaenxtz9",
+      "tag": "gT3wsHUG4EodNHPGbcVAWQ=="
+    }
+  ],
   "ready": [
     {
       "requestId": "0bc6e48685730bf73b5dcf15661c58e1",
